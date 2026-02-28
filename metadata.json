@@ -1,0 +1,9 @@
+{
+  "name": "SPEQTRUM .COM",
+  "description": "A production-grade global interactive companionship platform featuring high-security connections, encrypted real-time chat, and a curated video feed for authentic human interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
